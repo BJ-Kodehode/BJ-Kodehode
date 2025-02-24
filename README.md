@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Bernt and I'm terrible at introducing myself. I'm taking courses so far I've learned simple HTML, JavaScript and C# programming
 
 <!--
 **BJ-Kodehode/BJ-Kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
