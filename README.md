@@ -4,7 +4,7 @@
 
 ### Junior Fullstack & Backend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bernt-johansen-3b80522b1/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernt-johansen-3b80522b1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernt25sfj@gmail.com)
 
 </div>
@@ -117,7 +117,7 @@ Jeg er i en kontinuerlig læringsfase hvor jeg:
 
 Jeg er alltid åpen for å lære mer og samarbeide på interessante prosjekter!
 
-- 💼 **LinkedIn**: [Din profil]([https://linkedin.com/in/din-profil](https://www.linkedin.com/in/bernt-johansen-3b80522b1/))
+- 💼 **LinkedIn**: [Bernt Johansen](https://www.linkedin.com/in/bernt-johansen-3b80522b1/)
 - 📧 **Email**: bernt25sfj@gmail.com
 
 ---
